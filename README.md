@@ -7,7 +7,6 @@
 
 
 ### [<h2>Video Demonstration</h2>](https://www.youtube.com/watch?v=fAfp3UmocsQ&t=7s)
-
 This tutorial demonstrates the ticketing system after it has been installed and configured. The demo shows how to create "fake tickets" and illustrates how someone working in a help desk would utilize a ticket system to manage and resolve tickets.<br />
 
 <h2>Environments and Technologies Used</h2>
